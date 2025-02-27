@@ -4,8 +4,7 @@
 }
 
 body {
-    background: rgb(10, 6, 84);
-    background: linear-gradient(95deg, rgba(10, 6, 84, 1) 0%, rgba(35, 35, 158, 1) 55%, rgba(29, 181, 212, 1) 100%);
+    background: linear-gradient(99deg, rgba(10, 6, 84, 0.918) 0%, rgba(35, 35, 158, 1) 55%, rgba(29, 145, 168, 0.712) 100%);
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     text-align: center;
@@ -37,6 +36,7 @@ body {
 }
 
 .content img {
+    margin-top: -25px;
     width: 200px;
     margin-bottom: 20px;
 }
